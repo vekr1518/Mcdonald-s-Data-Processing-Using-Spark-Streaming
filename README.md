@@ -1,4 +1,4 @@
-# Mcdonal's-Data-Processing-Spark-Streaming
+# Mcdonald's-Data-Processing-Using-Spark-Streaming
 
 ## Overview
 
