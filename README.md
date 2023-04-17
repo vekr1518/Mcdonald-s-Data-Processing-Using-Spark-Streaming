@@ -1,4 +1,4 @@
-# Spark-Steaming-McDonalds
+# Mcdonal's-Data-Processing-Spark-Streaming
 
 ## Overview
 
